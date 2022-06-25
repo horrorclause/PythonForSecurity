@@ -5,22 +5,23 @@ Give it a protocol and it will return a port number.
 
 import socket
 
+#takes input from user, either port number or protocol name
 question = input("Which protocol do you want to know the port number for? : ").lower()
 
 
 def portChecker(name):
 
-    if name.isdigit():
+    if name.isdigit():  # checks to see if input is a digit
         try:
-            portNum = socket.getservbyport(int(name))
+            portNum = socket.getservbyport(int(name))  # returns protocol name
             return portNum
 
         except OSError:
             return "cant find protocol"
 
-    elif name.isalpha():
+    elif name.isalpha():  # checks to see if input is a digit
         try:
-            protocolName = socket.getservbyname(name)
+            protocolName = socket.getservbyname(name)  # returns port number
             return protocolName
 
         except OSError:
@@ -31,3 +32,4 @@ def portChecker(name):
 
 
 print(portChecker(question))
+
