@@ -21,4 +21,10 @@ print("Remainder: ", x % y)
 """
 Lab 2 Exercise
 """
+# Create a new script that checks if users can legally purchase an alcoholic beverage
 
+name = input("What is your name? : ")
+age = int(input("What is your age? : "))
+
+print(f"Your name is {name} and you are {age} years old.")
+print("Your name is {}, and you are {} years old".format(name, age))
