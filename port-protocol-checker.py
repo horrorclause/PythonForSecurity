@@ -1,3 +1,8 @@
+"""
+Give it a port number and it will return a protocol;
+Give it a protocol and it will return a port number.
+"""
+
 import socket
 
 question = input("Which protocol do you want to know the port number for? : ").lower()
