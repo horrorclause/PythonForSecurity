@@ -1,2 +1,3 @@
-# PythonForSecurity
-Repo for the Python for Security class.
+# Python For Security
+
+Information that is useful for Python.
