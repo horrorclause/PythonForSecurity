@@ -1,3 +1,6 @@
+"""
+Lab 1 Exercise
+"""
 x_string = input("Enter 1st number:")  # Input first number as string
 y_string = input("Enter 2nd number:")  # Input second number as string
 
@@ -14,4 +17,8 @@ print("Multiplication: ", x*y)
 print("Division: ", x/y)
 print("Remainder: ", x % y)
 
+
+"""
+Lab 2 Exercise
+"""
 
