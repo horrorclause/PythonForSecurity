@@ -18,7 +18,6 @@ print("Division: ", x/y)
 print("Remainder: ", x % y)
 
 
-
 """
 Lab 2 Exercise
 """
