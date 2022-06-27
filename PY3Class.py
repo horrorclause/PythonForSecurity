@@ -6,11 +6,11 @@ Labs for Class 3
 # Lab 1
 ############
 
-#upper_bound = int(input("Choose the range upper bound: ")) # Ask user for range upper limit
+upper_bound = int(input("Choose the range upper bound: ")) # Ask user for range upper limit
 
 # iterate through the range specified
-#for x in range(1, upper_bound):
-#    print(f"The next number in the line is: {x}")
+for x in range(1, upper_bound):
+    print(f"The next number in the line is: {x}")
 
 
 
@@ -29,3 +29,24 @@ for i in range(7):  # Will create one classroom each iteration
 # Using enumerate can help us count out the 7 classrooms. Using "start" lets us begin counting at 1 instead of 0
 for iteration, c in enumerate(classroom, start=1):
     print(f"Class #{iteration} is {c}")
+
+
+
+############
+# Lab 3
+############
+
+counter = 0
+
+while counter < 10:
+    counter += 1
+    if counter == 6:
+        print("Found")
+        break
+
+    else:
+        print(f"Check {counter}")
+
+
+
+
