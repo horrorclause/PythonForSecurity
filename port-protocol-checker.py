@@ -5,7 +5,7 @@ Give it a protocol and it will return a port number.
 
 import socket
 
-#takes input from user, either port number or protocol name
+# takes input from user, either port number or protocol name
 question = input("Which protocol do you want to know the port number for? : ").lower()
 
 
@@ -32,4 +32,3 @@ def portChecker(name):
 
 
 print(portChecker(question))
-
