@@ -17,8 +17,9 @@ for x in range(1, upper_bound):
 ############
 # Lab 2
 ############
+# Create 1 list with 7 Classrooms with 10 students each ex. [[0,1,2,3,..], [0,1,2,3,...]]
 
-classroom = [] # Empty list to store our 7 Classrooms
+classroom = []  # Empty list to store our 7 Classrooms
 
 for i in range(7):  # Will create one classroom each iteration
     classroom.append([])  # Adds an empty list
@@ -91,9 +92,11 @@ while True:
             if money >= fruits[player_choice]:  # If the user has enough money, add the fruit to the cart
                 shopping_cart.append(player_choice)
                 money -= fruits[player_choice]  # Subtract the cost of the fruit from your shopping cart
-                print(f"Here is your shopping cart: {shopping_cart}.\nYou have ${money} left.")
+                print(f"You have ${money} left.")
             else:
-                print("You dont have enough money!")
+                print(f"You dont have enough money!\nYou only have ${money} left.\n")
         else:
             print("Invalid request")
+
+print(f"Here is your shopping cart: {shopping_cart}.\n")
 
