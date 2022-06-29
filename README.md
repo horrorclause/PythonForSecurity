@@ -11,6 +11,14 @@ Information that is useful for learning Python.
   <li><a href="https://stackoverflow.com/">Stack Overflow</a></li>
 </ul>
 
+## Fun Sites to Practice Python ##
+
+<ul>
+  <li><a href="https://www.codewars.com/">CodeWars</a></li>
+  <li><a href="https://www.codingame.com/start">Coding Game</a></li>
+  <li><a href="https://rosalind.info/problems/locations/">Rosalind</a></li>
+ </ul>
+
 ## All About Git ##
 
 <ul>
