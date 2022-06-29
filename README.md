@@ -17,6 +17,7 @@ Information that is useful for learning Python.
   <li><a href="https://www.codewars.com/">CodeWars</a></li>
   <li><a href="https://www.codingame.com/start">Coding Game</a></li>
   <li><a href="https://rosalind.info/problems/locations/">Rosalind</a></li>
+  <li><a href="https://www.hackerrank.com/auth/signup"><Hacker Rank</a></li>
  </ul>
 
 ## All About Git ##
