@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 testing.py
 test2.py
+port-protocol-checker.py
 
 # C extensions
 *.so
