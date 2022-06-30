@@ -63,3 +63,18 @@ pig_it('Hello world !')     # elloHay orldway !
   False, False, True,  True]
 ```
 The correct answer would be 17
+
+
+
+### Pillars ###
+
+*Description*:
+
+<li>There are pillars near the road. The distance between the pillars is the same and the width of the pillars is the same. Calculate the distance between the first and the last pillar in centimeters (without the width of the first and last pillar). Your function accepts three arguments:</li>
+
+```
+    1) number of pillars (≥ 1);
+    2) distance between pillars (10 - 30 meters);
+    3) width of the pillar (10 - 50 centimeters).
+```
+
