@@ -4,7 +4,7 @@ Here you will find a list of Codewars exercises and their solutions.
 
 
 
-### Convert String to Camel Case ###
+## Convert String to Camel Case ##
 
 *Description*:
 
@@ -17,7 +17,7 @@ Here you will find a list of Codewars exercises and their solutions.
 
 
 
-### Bit Counting ###
+## Bit Counting ##
 
 *Description*:
 
@@ -29,7 +29,7 @@ Here you will find a list of Codewars exercises and their solutions.
 
 
 
-### Simple Pig Latin ###
+## Simple Pig Latin ##
 
 *Description*:
 
@@ -46,7 +46,7 @@ pig_it('Hello world !')     # elloHay orldway !
 
 
 
-### Counting Sheeps ###
+## Counting Sheeps ##
 
 *Description*:
 
@@ -66,7 +66,7 @@ The correct answer would be 17
 
 
 
-### Pillars ###
+## Pillars ##
 
 *Description*:
 
@@ -79,7 +79,7 @@ The correct answer would be 17
 ```
 
 
-### Your Order Please! ###
+## Your Order Please! ##
 
 *Description*:
 
