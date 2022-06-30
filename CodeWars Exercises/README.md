@@ -2,6 +2,7 @@
 
 Here you will find a list of Codewars exercises and their solutions.
 
+
 ### Convert String to Camel Case ###
 
 *Description*:
@@ -23,3 +24,19 @@ Here you will find a list of Codewars exercises and their solutions.
 *Examples*:
 
 <li>The binary representation of 1234 is 10011010010, so the function should return 5 in this case</li>
+
+
+### Simple Pig Latin ###
+
+*Description*:
+
+<li>Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.</li>
+
+*Examples*:
+
+```
+pig_it('Pig latin is cool') # igPay atinlay siay oolcay
+```
+```
+pig_it('Hello world !')     # elloHay orldway !
+```
