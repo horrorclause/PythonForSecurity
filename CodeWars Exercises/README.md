@@ -3,6 +3,7 @@
 Here you will find a list of Codewars exercises and their solutions.
 
 
+
 ### Convert String to Camel Case ###
 
 *Description*:
@@ -15,6 +16,7 @@ Here you will find a list of Codewars exercises and their solutions.
 <li>"The_Stealth_Warrior" gets converted to "TheStealthWarrior"</li>
 
 
+
 ### Bit Counting ###
 
 *Description*:
@@ -24,6 +26,7 @@ Here you will find a list of Codewars exercises and their solutions.
 *Examples*:
 
 <li>The binary representation of 1234 is 10011010010, so the function should return 5 in this case</li>
+
 
 
 ### Simple Pig Latin ###
@@ -40,3 +43,23 @@ pig_it('Pig latin is cool') # igPay atinlay siay oolcay
 ```
 pig_it('Hello world !')     # elloHay orldway !
 ```
+
+
+
+### Counting Sheeps ###
+
+*Description*:
+
+<lli>Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).</li>
+
+*Examples*:
+
+```
+[True,  True,  True,  False,
+  True,  True,  True,  True ,
+  True,  False, True,  False,
+  True,  False, False, True ,
+  True,  True,  True,  True ,
+  False, False, True,  True]
+```
+The correct answer would be 17
