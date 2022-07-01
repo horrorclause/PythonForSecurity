@@ -27,4 +27,5 @@ Information that is useful for learning Python.
   <li><a href="https://www.youtube.com/watch?v=HkdAHXoRtos">Git It? How to use Git and Github</a></li>
   <li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git and GitHub for Beginners - Crash Course</a></li>
   <li><a href="https://www.youtube.com/watch?v=a8MckiothGc">How to use GitHub with Pycharm in less than 7 minutes</a></li>
+  <li><a href="https://git-scm.com/book/en/v2">Download the Pro Git Book</a></li>
 </ul>
