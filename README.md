@@ -10,6 +10,8 @@ Information that is useful for learning Python.
   <li><a href="https://edube.org/">Edube, Free Learning for Python, C, C++, and JavaScript</a></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a></li>
   <li><a href="https://www.dataquest.io/">Dataquest</a></li>
+  <li><a href="https://www.programiz.com/python-programming/class">Python Objects and Classes</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ZDa-Z5JzLYM">Python OOP Tutorial (Video)</a></li>
 </ul>
 
 ## :snake:Fun Sites to Practice Python ##
