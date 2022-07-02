@@ -2,7 +2,7 @@
 
 Information that is useful for learning Python.
 
-## Resources for Learning Python ##
+## :books:Resources for Learning Python ##
 
 <ul>
   <li><a href="https://www.codecademy.com">Codecademy</a></li>
@@ -22,7 +22,7 @@ Information that is useful for learning Python.
   <li><a href="https://realpython.com/python-pep8/">What is PEP 8?</a></li>
  </ul>
 
-## All About Git ##
+## :octocat:All About Git ##
 
 <ul>
   <li><a href="https://www.youtube.com/watch?v=HkdAHXoRtos">Git It? How to use Git and Github</a></li>
@@ -31,7 +31,7 @@ Information that is useful for learning Python.
   <li><a href="https://git-scm.com/book/en/v2">Download the Pro Git Book</a></li>
 </ul>
 
-## Regular Expressions (RegEx), What is it? ##
+## :computer:Regular Expressions (RegEx), What is it? ##
 
 <ul>
   <li><a href="https://towardsdatascience.com/a-very-easy-tutorial-to-learn-python-regular-expression-re-c42fbbc01ef2">Python RegEx Tutorial</a></li>
