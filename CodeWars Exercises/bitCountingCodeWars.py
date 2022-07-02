@@ -14,4 +14,4 @@ def count_bits(n):
 
     return nums  # Faster is binary.count("1")
 
-print(count_bits(int(input("Enter your number: "))))
+
