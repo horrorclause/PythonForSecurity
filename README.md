@@ -29,3 +29,11 @@ Information that is useful for learning Python.
   <li><a href="https://www.youtube.com/watch?v=a8MckiothGc">How to use GitHub with Pycharm in less than 7 minutes</a></li>
   <li><a href="https://git-scm.com/book/en/v2">Download the Pro Git Book</a></li>
 </ul>
+
+## Regular Expressions (RegEx), What is it? ##
+
+<ul>
+  <li><a href="https://towardsdatascience.com/a-very-easy-tutorial-to-learn-python-regular-expression-re-c42fbbc01ef2">Python RegEx Tutorial</a></li>
+  <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools Python RegEx</a></li>
+  <li><a href="https://realpython.com/regex-python/">Real Python - RegEx</a></li>
+</ul>
