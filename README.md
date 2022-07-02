@@ -12,7 +12,7 @@ Information that is useful for learning Python.
   <li><a href="https://www.dataquest.io/">Dataquest</a></li>
 </ul>
 
-## Fun Sites to Practice Python ##
+## :snake:Fun Sites to Practice Python ##
 
 <ul>
   <li><a href="https://www.codewars.com/">CodeWars</a></li>
