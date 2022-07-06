@@ -40,3 +40,22 @@ Information that is useful for learning Python.
   <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools Python RegEx</a></li>
   <li><a href="https://realpython.com/regex-python/">Real Python - RegEx</a></li>
 </ul>
+
+
+## Helpful Hints ##
+
+### Installing VirtualBox Guest Additions in Kali ###
+
+From a terminal window, copy the VboxLinuxAdditions.run file from the Guest Additions CD-ROM to a path on your local system.
+Ensure it is executable and run the file to begin the installation.
+
+```
+kali@kali:~$ cp /media/cdrom/VBoxLinuxAdditions.run ~/Downloads/
+kali@kali:~$ chmod 0755 ~/Downloads/VBoxLinuxAdditions.run
+kali@kali:~$ cd ~/Downloads/
+kali@kali:~/Downloads$ ./VBoxLinuxAdditions.run
+```
+
+Reboot the Kali Linux VM to complete the Guest Additions installation.
+You should now have full mouse and screen integration as well as the ability to share folders with the host system.
+Make sure to remove the disk from the virtual drive once loggd back into the system.
