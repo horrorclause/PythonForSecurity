@@ -58,4 +58,4 @@ kali@kali:~/Downloads$ ./VBoxLinuxAdditions.run
 
 Reboot the Kali Linux VM to complete the Guest Additions installation.
 You should now have full mouse and screen integration as well as the ability to share folders with the host system.
-Make sure to remove the disk from the virtual drive once loggd back into the system.
+Make sure to remove the disk from the virtual drive once logged back into the system.
