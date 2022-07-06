@@ -42,7 +42,7 @@ Information that is useful for learning Python.
 </ul>
 
 
-## Helpful Hints ##
+## :pushpin:Helpful Hints ##
 
 ### Installing VirtualBox Guest Additions in Kali ###
 
