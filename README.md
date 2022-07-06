@@ -48,6 +48,7 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
   <li><a href="https://towardsdatascience.com/a-very-easy-tutorial-to-learn-python-regular-expression-re-c42fbbc01ef2">Python RegEx Tutorial</a></li>
   <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools Python RegEx</a></li>
   <li><a href="https://realpython.com/regex-python/">Real Python - RegEx</a></li>
+  <li><a href="https://www.youtube.com/watch?v=AEE9ecgLgdQ">Regular Expressions in Python (Video)</a></li>
 </ul>
 
 
