@@ -12,6 +12,7 @@ Information that is useful for learning Python.
   <li><a href="https://www.dataquest.io/">Dataquest</a></li>
   <li><a href="https://www.programiz.com/python-programming/class">Python Objects and Classes</a></li>
   <li><a href="https://www.youtube.com/watch?v=ZDa-Z5JzLYM">Python OOP Tutorial (Video)</a></li>
+  <li><a href="https://realpython.com/python-pep8/">What is PEP 8?</a></li>
 </ul>
 
 ## :snake:Fun Sites to Practice Python ##
@@ -21,8 +22,7 @@ Information that is useful for learning Python.
   <li><a href="https://www.codingame.com/start">Coding Game</a></li>
   <li><a href="https://rosalind.info/problems/locations/">Rosalind</a></li>
   <li><a href="https://www.hackerrank.com/auth/signup">Hacker Rank</a></li>
-  <li><a href="https://realpython.com/python-pep8/">What is PEP 8?</a></li>
- </ul>
+</ul>
 
 ## :octocat:All About Git ##
 
