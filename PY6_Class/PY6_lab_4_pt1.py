@@ -19,6 +19,8 @@ conn.send("Please enter your password: ".encode())
 
 passwd = conn.recv(2048).decode()
 
+#conn.send(f"{conn}\n{addr[0]}:{addr[1]}".encode())
+
 if username == "John" and passwd == "12345":
     conn.send(f"Welcome {username}!".encode())
 else:
