@@ -33,6 +33,15 @@ Information that is useful for learning Python.
   <li><a href="https://git-scm.com/book/en/v2">Download the Pro Git Book</a></li>
 </ul>
 
+### Don't Forget to Set Your Global Git Username and Email ###
+The first time you connect your GitHub to your IDE you will need to set your global username and email
+before you can push out any commits:
+```
+git config --global user.name "Enter Your Name Here"
+git config --global user.email "Enter youremail@yourdomain.com Here"
+```
+
+
 ## :computer:Regular Expressions (RegEx), What is it? ##
 
 <ul>
