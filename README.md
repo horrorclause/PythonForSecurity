@@ -13,6 +13,7 @@ Information that is useful for learning Python.
   <li><a href="https://www.programiz.com/python-programming/class">Python Objects and Classes</a></li>
   <li><a href="https://www.youtube.com/watch?v=ZDa-Z5JzLYM">Python OOP Tutorial (Video)</a></li>
   <li><a href="https://realpython.com/python-pep8/">What is PEP 8?</a></li>
+  <li><a href="https://exercism.org/">Exercism - Learn Multiple Programming Languages For Free</a></li>
 </ul>
 
 ## :snake:Fun Sites to Practice Python ##
@@ -49,6 +50,7 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
   <li><a href="https://www.w3schools.com/python/python_regex.asp">W3Schools Python RegEx</a></li>
   <li><a href="https://realpython.com/regex-python/">Real Python - RegEx</a></li>
   <li><a href="https://www.youtube.com/watch?v=AEE9ecgLgdQ">Regular Expressions in Python (Video)</a></li>
+  <li><a href="https://regex101.com/">Regex 101 - Write and Test Your RegEx</a></li>
 </ul>
 
 
