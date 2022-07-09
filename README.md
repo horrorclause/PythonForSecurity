@@ -56,7 +56,11 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
 
 ## :pushpin:Helpful Hints ##
 
+<br />
+
 ### Installing VirtualBox Guest Additions in Kali ###
+
+<br />
 
 From a terminal window, copy the VboxLinuxAdditions.run file from the Guest Additions CD-ROM to a path on your local system.
 Ensure it is executable and run the file to begin the installation.
@@ -71,3 +75,26 @@ kali@kali:~/Downloads$ ./VBoxLinuxAdditions.run
 Reboot the Kali Linux VM to complete the Guest Additions installation.
 You should now have full mouse and screen integration as well as the ability to share folders with the host system.
 Make sure to remove the disk from the virtual drive once logged back into the system.
+
+<br />
+
+### Installing VSCode on Kali ###
+
+<br />
+
+The first step is to download the ".deb" package from:
+
+<li><a href="https://code.visualstudio.com/download">VSCode Downloads</a></li>
+
+<br />
+
+This file will now be located in your Downloads folder. Verify this and install the file (Note that your installer may be a different version than this):
+
+```
+cd Downloads
+ls
+sudo apt install ./code_1.69.0-1657183742_amd64.deb
+
+```
+
+That's it! VSCode is now installed on your machine, feel free to delete the installer package in your "Downloads" folder. You will now be able to find VSCode in your "Applications" by searching in the top left corner.
