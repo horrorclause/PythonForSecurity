@@ -86,15 +86,21 @@ The first step is to download the ".deb" package from:
 
 <li><a href="https://code.visualstudio.com/download">VSCode Downloads</a></li>
 
-<br />
+![image](https://user-images.githubusercontent.com/10188810/178114902-37117e8f-5221-453b-9afc-9605bdecfb69.png)
 
 This file will now be located in your Downloads folder. Verify this and install the file (Note that your installer may be a different version than this):
 
+![image](https://user-images.githubusercontent.com/10188810/178114927-e76290c2-1e98-48d0-9d69-d3dd98d995fe.png)
+
 ```
-cd Downloads
-ls
-sudo apt install ./code_1.69.0-1657183742_amd64.deb
+cd Downloads  # navigate to your Downloads folder
+ls  # List out all the items in the folder
+sudo apt install ./code_1.69.0-1657183742_amd64.deb  # install the package
 
 ```
 
 That's it! VSCode is now installed on your machine, feel free to delete the installer package in your "Downloads" folder. You will now be able to find VSCode in your "Applications" by searching in the top left corner.
+
+![image](https://user-images.githubusercontent.com/10188810/178114958-a6a02555-6de9-48f3-bc54-4657807dea5f.png)
+
+
