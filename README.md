@@ -16,6 +16,8 @@ Information that is useful for learning Python.
   <li><a href="https://exercism.org/">Exercism - Learn Multiple Programming Languages For Free</a></li>
 </ul>
 
+<br />
+
 ## :snake:Fun Sites to Practice Python ##
 
 <ul>
@@ -24,6 +26,8 @@ Information that is useful for learning Python.
   <li><a href="https://rosalind.info/problems/locations/">Rosalind</a></li>
   <li><a href="https://www.hackerrank.com/auth/signup">Hacker Rank</a></li>
 </ul>
+
+<br />
 
 ## :octocat:All About Git ##
 
@@ -42,6 +46,7 @@ git config --global user.name "Enter Your Name Here"
 git config --global user.email "Enter youremail@yourdomain.com Here"
 ```
 
+<br />
 
 ## :computer:Regular Expressions (RegEx), What is it? ##
 
@@ -53,14 +58,11 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
   <li><a href="https://regex101.com/">Regex 101 - Write and Test Your RegEx</a></li>
 </ul>
 
+<br />
 
 ## :pushpin:Helpful Hints ##
 
-<br />
-
 ### Installing VirtualBox Guest Additions in Kali ###
-
-<br />
 
 From a terminal window, copy the VboxLinuxAdditions.run file from the Guest Additions CD-ROM to a path on your local system.
 Ensure it is executable and run the file to begin the installation.
@@ -80,11 +82,11 @@ Make sure to remove the disk from the virtual drive once logged back into the sy
 
 ### Installing VSCode on Kali ###
 
-<br />
-
 The first step is to download the ".deb" package from:
 
-<li><a href="https://code.visualstudio.com/download">VSCode Downloads</a></li>
+<ul>
+  <li><a href="https://code.visualstudio.com/download">VSCode Downloads</a></li>
+</ul>
 
 ![image](https://user-images.githubusercontent.com/10188810/178114902-37117e8f-5221-453b-9afc-9605bdecfb69.png)
 
