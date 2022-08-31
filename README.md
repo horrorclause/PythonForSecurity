@@ -6,7 +6,6 @@ Information that is useful for learning Python.
 
 <ul>
   <li><a href="https://www.codecademy.com">Codecademy</a></li>
-  <li><a href="https://www.amazon.com/s?k=al+sweigart&sprefix=al+swe%2Caps%2C89&ref=nb_sb_ss_ts-doa-p_1_6">Al Swiegart's Python Books</a></li>
   <li><a href="https://edube.org/">Edube, Free Learning for Python, C, C++, and JavaScript</a></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a></li>
   <li><a href="https://www.dataquest.io/">Dataquest</a></li>
@@ -14,6 +13,10 @@ Information that is useful for learning Python.
   <li><a href="https://www.youtube.com/watch?v=ZDa-Z5JzLYM">Python OOP Tutorial (Video)</a></li>
   <li><a href="https://realpython.com/python-pep8/">What is PEP 8?</a></li>
   <li><a href="https://exercism.org/">Exercism - Learn Multiple Programming Languages For Free</a></li>
+  <li><a href="https://www.amazon.com/s?k=al+sweigart&sprefix=al+swe%2Caps%2C89&ref=nb_sb_ss_ts-doa-p_1_6">Al Swiegart's Python Books</a></li>
+  <li><a href="https://www.amazon.com/gp/product/1597499579/ref=as_li_tl?ie=UTF8&tag=tcm090-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1597499579&linkId=6278d061f0c09a2d41d51fe931bcc1aa">*Book* Violent Python</a></li>
+  <li><a href="https://www.amazon.com/gp/product/1593279280/ref=as_li_tl?ie=UTF8&tag=tcm090-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593279280&linkId=6342b26bf66124c296c14c28dde28127">*Book* Python Crash Course</a></li>
+  <li><a href="https://www.amazon.com/gp/product/1593275900/ref=as_li_tl?ie=UTF8&tag=tcm090-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275900&linkId=4e6eaa9d766b3be7800f6bd90e8a3b6c">*Book* Black Hat Python</a></li>
 </ul>
 
 <br />
