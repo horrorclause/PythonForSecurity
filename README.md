@@ -79,6 +79,8 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
   <li><a href="https://www.w3schools.com/python/python_ref_keywords.asp">Reserved Words That Cannot Be Used as Variables</a></li>
 </ul>
 
+<br />
+
 ### Installing VirtualBox Guest Additions in Kali ###
 
 From a terminal window, copy the VboxLinuxAdditions.run file from the Guest Additions CD-ROM to a path on your local system.
