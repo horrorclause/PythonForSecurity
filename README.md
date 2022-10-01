@@ -65,6 +65,14 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
 
 ## :pushpin:Helpful Hints ##
 
+### Host Your Python in the Cloud ###
+
+<ul>
+  <li><a href="https://www.pythonanywhere.com/">Python Anywhere - Host, run, and code Python in the cloud!</a></li>
+</ul>
+
+<br />
+
 ### Python Keywords ###
 
 <ul>
