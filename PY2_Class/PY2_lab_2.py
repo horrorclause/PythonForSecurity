@@ -10,7 +10,7 @@ lastName = input("What is your last name? : ")
 age = int(input("What is your age? : "))   # Take user input for age
 
 print(f"Your name is {firstName} and you are {age} years old.")  # fstring formatting
-print("Your name is {}, and you are {} years old".format(firstName, age))  # .format formatting
+#print("Your name is {}, and you are {} years old".format(firstName, age))  # .format formatting
 
 # if-else statement to check age
 if age >= 21:

@@ -51,6 +51,20 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
 
 <br />
 
+### Python Keywords ###
+
+<ul>
+  <li><a href="https://www.w3schools.com/python/python_ref_keywords.asp">Reserved Words That Cannot Be Used as Variables</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_exceptions.asp">Python Exceptions</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_dictionary.asp">Python Dictionary Methods</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_list.asp">Python List/Array Methods</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_string.asp">Python String Methods</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_functions.asp">Python Built in Functions</a></li>
+  <li><a href="https://www.w3schools.com/python/python_ref_file.asp">Python File Methods</a></li>
+</ul>
+
+<br />
+
 ## :computer:Regular Expressions (RegEx), What is it? ##
 
 <ul>
@@ -66,20 +80,12 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
 ## :pushpin:Helpful Hints ##
 
 ### Host Your Python in the Cloud ###
-
 <ul>
   <li><a href="https://www.pythonanywhere.com/">Python Anywhere - Host, run, and code Python in the cloud!</a></li>
 </ul>
 
 <br />
 
-### Python Keywords ###
-
-<ul>
-  <li><a href="https://www.w3schools.com/python/python_ref_keywords.asp">Reserved Words That Cannot Be Used as Variables</a></li>
-</ul>
-
-<br />
 
 ### Installing VirtualBox Guest Additions in Kali ###
 
