@@ -51,7 +51,7 @@ git config --global user.email "Enter youremail@yourdomain.com Here"
 
 <br />
 
-### Python Keywords ###
+## :suspect:Python Keywords ##
 
 <ul>
   <li><a href="https://www.w3schools.com/python/python_ref_keywords.asp">Reserved Words That Cannot Be Used as Variables</a></li>
