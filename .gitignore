@@ -6,6 +6,8 @@ testing.py
 test2.py
 test.py
 port-protocol-checker.py
+text.txt
+hello_world.py
 
 # C extensions
 *.so

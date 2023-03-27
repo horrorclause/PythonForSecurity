@@ -16,3 +16,5 @@ for i in range(7):  # Will create one classroom each iteration
 # Using enumerate can help us count out the 7 classrooms. Using "start" lets us begin counting at 1 instead of 0
 for iteration, c in enumerate(classroom, start=1):
     print(f"Class #{iteration} is {c}")
+
+print(classroom)
