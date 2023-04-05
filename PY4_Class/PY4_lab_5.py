@@ -4,6 +4,7 @@ Lab5: File System & Error Handling
 """
 
 file_name = input("Choose a filename: ")
+
 # For mac and linux systems add -c 4 flag
 os.system(r"ping 8.8.8.8 >> "+file_name+'.txt')
 
