@@ -6,6 +6,7 @@ Information that is useful for learning Python.
 
 <ul>
   <li><a href="https://www.codecademy.com">Codecademy</a></li>
+  <li><a href="https://www.freecodecamp.org/learn/information-security/">Free Code Camp Python for InfoSec</a></li>
   <li><a href="https://edube.org/">Edube, Free Learning for Python, C, C++, and JavaScript</a></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a></li>
   <li><a href="https://www.dataquest.io/">Dataquest</a></li>
